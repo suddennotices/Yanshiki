@@ -1,0 +1,37 @@
+{
+  "name": "botto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jiyu#3581",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "anime-quotes-api": "^1.2.0",
+    "animequotes": "^1.1.2",
+    "axios": "^0.21.1",
+    "canvacord": "^5.0.8",
+    "canvas": "^2.7.0",
+    "discord-xp": "^1.1.7",
+    "discord.js": "^12.3.1",
+    "discord.js-collector": "^1.8.8",
+    "discord.js-reaction-menu": "^1.1.1",
+    "dumcanvas": "^3.1.0",
+    "ffmpeg-static": "^4.2.7",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "gifu": "^3.0.0",
+    "moment": "^2.29.1",
+    "nekos.life": "^2.0.7",
+    "node-fetch": "^2.6.1",
+    "node-kitsu": "^1.1.1",
+    "pet-pet-gif": "^1.0.3",
+    "request-promise-native": "^1.0.9",
+    "weather-js": "^2.0.0",
+    "yt-search": "^2.7.3",
+    "ytdl-core": "^4.5.0"
+  }
+}
